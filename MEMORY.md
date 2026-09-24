@@ -17,6 +17,7 @@ Claude updates this file whenever I correct it or it learns a lasting preference
   what I already have set up, not in the abstract.
 
 ## Corrections
+- Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for leads/reviews.
 <!-- Mistakes Claude made and what to do instead. -->
 
 ## Environment & tooling
@@ -31,6 +32,8 @@ Claude updates this file whenever I correct it or it learns a lasting preference
     Content is regulated: IRDAI/AMFI/SEBI rules apply (disclaimers, no promised returns, insurer approval for ads).
   - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
     Home loans earn the most per customer but close slowly; PAN card is the next biggest earner.
+    PAN customers are NOT home-loan prospects (different people). The retail counter can't be used
+    for marketing or trust-building (local demographic isn't supportive), so CSC leads must come from online or partners.
   - **UCF**: NGO, launched Sept 2026.
 - I work alone on WVS and UCF, 9 AM–8 PM daily.
 - Goal: social media as the lead generator. At least 15 leads/week, growing steadily.
