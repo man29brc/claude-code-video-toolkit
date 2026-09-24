@@ -55,6 +55,7 @@ Drop anything that breaks a constraint or a compliance rule.
 Offer: log the top 3 as next week's actions (weekly-mentor-checkin), or pressure-test a big one (business-strategy, or llm-council for high-stakes decisions).
 
 ## Rules
+- **WVS has a 10-year roadmap (WVS Drive folder / project knowledge) that governs its strategy, cadence, budget and sequencing.** Work within it: change tactics, never the 10-year commitment. If a recommendation departs from the roadmap, say so explicitly and why. Budget is the one-time ~₹1L; spend in the roadmap's order (landing page first, ads last).
 - Specific beats clever. "Post in 3 Vadodara housing-society WhatsApp groups" beats "use community marketing".
 - Respect the known constraints and corrections. Don't re-suggest what already failed unless there's a clearly different angle, and say why.
 - No health insurance content ideas. No PAN-to-home-loan upselling. No shop-counter marketing.

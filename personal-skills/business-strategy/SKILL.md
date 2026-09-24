@@ -92,6 +92,7 @@ For big, hard-to-reverse decisions (large spend, new business line, hiring, leav
 Compare progress against the 90-day goals and milestones, apply the stop rules, and adjust at most **one** bet per month. Report in 10 lines or fewer.
 
 ## Rules
+- **WVS has a 10-year roadmap (WVS Drive folder / project knowledge) that governs its strategy, cadence, budget and sequencing.** Work within it: change tactics, never the 10-year commitment. If a recommendation departs from the roadmap, say so explicitly and why. Budget is the one-time ~₹1L; spend in the roadmap's order (landing page first, ads last).
 - Base everything on the user's real situation (memory and project profiles). Never generic startup advice.
 - Honest over comforting: if a business or idea isn't worth the time now, say so and why.
 - Known constraints: about 1 hour/day for content, faceless, ads ₹0 now and up to ₹300/day later, 2 shop staff, no shop-counter marketing, no PAN-to-home-loan upselling, no health insurance content.

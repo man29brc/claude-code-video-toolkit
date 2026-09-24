@@ -11,7 +11,7 @@ This is the **monthly strategy**. The weekly-social-planner skill turns it into 
 
 - **Which business?** WVS, CSC Balaji, or UCF (NGO). Do one business per calendar. If the user wants all three, do them one after another, clearly separated.
 - Load that business's profile (offer, audience, location, language, tone, CTA) from memory or preferences. If missing, ask for it in one message.
-- **Which month** (default: next month), **how many posts per week** (default: 4, of which 2 are Reels), and **the main goal this month** (enquiries, followers, trust, donations, volunteers, or a specific launch or campaign).
+- **Which month** (default: next month), **how many posts per week** (default: 4, of which 2 are Reels; **WVS follows its roadmap: 3 reels + 2 carousels + 1 YouTube long-form a week, festival reels extra, pillars: SIP & MF · life insurance awareness · emergency fund & savings · money myths · behavioural finance · tax planning**), and **the main goal this month** (enquiries, followers, trust, donations, volunteers, or a specific launch or campaign).
 - If performance insights exist (from the instagram-performance-analysis skill, or memory), use them: do more of what worked.
 
 ## 2. Content pillars (3–4 per business)

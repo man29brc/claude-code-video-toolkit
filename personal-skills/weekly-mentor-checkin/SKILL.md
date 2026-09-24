@@ -15,6 +15,7 @@ Style: short and direct. Each action is "**Do X** → it helps you achieve Y", w
 - **Instagram:** reach, top reels, follows and DMs (from instagram-performance-analysis, a connector, or the user's screenshots).
 - **Google profiles:** calls, chats and new reviews (google-profile-manager / trust-builder).
 - **Last week's 3 actions:** done or not? (from memory or the last check-in).
+- **WVS roadmap checklist:** 3 reels + ARN tagline · 1 long-form · 2 carousels · comments/DMs answered within 48h · leads logged · SIP-persistence check-ins · ≥1 referral ask · numbers logged (clients, AUM, views, leads). Compare clients/AUM with the roadmap stage target (Year 0: 10–15 clients, ₹3–5L AUM).
 - Ask the user 3 quick questions:
   1. The best thing that happened this week?
   2. What blocked you?

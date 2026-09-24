@@ -27,9 +27,10 @@ WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and
 
 ## Mutual funds (SEBI / AMFI)
 
+- **ARN tagline at the start of every piece:** "AMFI Registered Mutual Fund Distributor — ARN-341565" (font ≥12 on visuals). Also on every handle.
 - **Identity:** say "AMFI-registered Mutual Fund Distributor" and show the **ARN** (ask the user for it once, then keep it in memory). **Never** use "advisor", "adviser", "financial advisor", "IFA", "wealth manager", or "investment expert". Those titles need SEBI RIA registration. "Sahayak" as a brand name is fine.
 - **Risk disclaimer:** include "Mutual fund investments are subject to market risks, read all scheme related documents carefully." In the caption **and** on screen for videos, where it must be legible. Voice it if the ad is audio-visual. **Ask:** the current SEBI/AMFI rules on on-screen duration and size.
-- **No return promises:** ⛔ "guaranteed", "sure-shot", "double your money", "safe returns", "fixed returns", "risk-free", "best fund". Illustrations like "₹5,000 SIP at an assumed 12%" are OK **only if** clearly labelled as an assumed rate, for illustration, not a promise, and not tied to a specific scheme.
+- **No return promises:** ⛔ "guaranteed", "sure-shot", "double your money", "safe returns", "fixed returns", "risk-free", "best fund". Illustrations are OK **only** with generic compounding ranges (2–13%, per the WVS roadmap), clearly labelled as assumed, for illustration, not a promise, and not tied to a specific scheme.
 - **Past performance:** don't quote a scheme's returns unless in the SEBI-prescribed format. Safer: don't quote scheme returns at all.
 - **No specific scheme "tips"** or "buy this fund now" calls. Education (what a SIP is, compounding, goal planning) is fine.
 - **No comparisons** that make MFs look guaranteed versus FDs, PPF, etc. Comparison must be fair and mention risk.
@@ -47,7 +48,8 @@ WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and
 ## Both
 
 - Content from the insurer or AMC: use their approved creatives as-is. Don't edit their numbers.
-- Testimonials and client stories: get written consent. No return or claim-amount claims. **Ask** before using testimonials in WVS **ads**. Google reviews themselves are fine.
+- **No named testimonials** (WVS roadmap). Use only anonymised, aggregate proof ("X families now have active SIPs through WVS"). No return or claim-amount figures. Google reviews themselves are fine.
+- **CTA:** WhatsApp Group link + pinned comment, per the standing brand templates.
 - Don't post client names, policy numbers, PAN or Aadhaar, or screenshots with personal data.
 - Storyline Reels with fictional characters: add "Characters are fictional, for illustration" if they could be mistaken for real clients.
 

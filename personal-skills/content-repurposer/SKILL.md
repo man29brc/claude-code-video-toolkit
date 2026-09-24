@@ -1,6 +1,6 @@
 ---
 name: content-repurposer
-description: Turn one piece of content (a Reel, video, transcript, blog, event, photo set, voice note, or long post) into many — Reels/Shorts, an Instagram carousel, a feed post, Stories, WhatsApp status and broadcast text, a Facebook post, and a YouTube Shorts description. Use when the user says repurpose, reuse, turn this into posts, make more content from this, or shares one asset and wants multiple posts.
+description: Turn one piece of content (a Reel, video, transcript, blog, event, photo set, voice note, or long post) into many — Reels/Shorts, an Instagram carousel, a feed post, Stories, WhatsApp status and group text, a Facebook post, and a YouTube Shorts description. Use when the user says repurpose, reuse, turn this into posts, make more content from this, or shares one asset and wants multiple posts.
 ---
 
 # Content Repurposer
@@ -41,7 +41,7 @@ Hook line · 3–5 short lines · CTA · 5–8 hashtags.
 Frame-by-frame text + interactive sticker idea (poll/quiz/question/link).
 
 ### 5. WhatsApp
-Status text (≤2 lines) + broadcast message (≤5 lines, personal tone, clear CTA).
+Status text (≤2 lines) + a WhatsApp Group post (≤5 lines, personal tone, clear CTA). No mass broadcasts: 1:1 messages only when personal.
 
 ### 6. Facebook post
 Slightly longer, conversational, local-community tone.

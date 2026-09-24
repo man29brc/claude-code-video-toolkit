@@ -50,6 +50,7 @@ Before finalising **any WVS reel**, run the **finance-compliance-checker** skill
 
 ## 5. Make the video (choose the route)
 
+- **WVS standard pipeline (roadmap):** Flux/Ideogram/Imagen stills → Luma image-to-video (pay-as-you-go credits) → Sarvam Bulbul Gujarati voice → DaVinci Resolve → Zoho Social. Rameshbhai is the recurring character: keep his description identical in every prompt. Gujarati/Hindi only, ARN tagline at the start.
 - **Canva (in the Claude app):** generate the scenes as a 9:16 video/presentation design with the scene text, then the user adds the voiceover in Canva or CapCut.
 - **Any editor (CapCut / InShot):** give the user the images (from the prompts), the voiceover script and the caption timings. They assemble it in about 15 minutes.
 - **Full auto render (Claude Code + claude-code-video-toolkit):** use the `concept-explainer-short` template. Write `scenes.json` (per-scene narration + visual), generate the images, voiceover (`gen_vo.py`, which can use the user's cloned voice) and karaoke captions (`gen_captions.py`), then `build.py` renders the finished 9:16 MP4 with music.

@@ -24,7 +24,8 @@ Draft a WhatsApp message for the user to send (**draft only, the user sends it**
 
 Ask happy customers for a 2–3 line text or a short voice note: "What was your problem, and how did it go?"
 - Get **clear consent** to use it publicly, and ask if they want their first name only, initials, or anonymous.
-- **WVS:** no return figures, claim amounts or "guaranteed" language. Run **finance-compliance-checker** before using a testimonial in any post, and **ask the insurer** before using testimonials in ads.
+- **WVS: no named testimonials in content** (roadmap rule). Turn proof into anonymised, aggregate stats only ("X families now have active SIPs through WVS"). No return figures, claim amounts or "guaranteed" language. Run **finance-compliance-checker**. Google reviews are still fine to request.
+- **WVS referral loop (roadmap):** after each happy client, ask for one family referral, especially wives, daughters and other women.
 
 ## 3. Turn proof into content (faceless)
 
