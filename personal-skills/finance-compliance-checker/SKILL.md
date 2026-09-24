@@ -5,7 +5,7 @@ description: Check WVS (Wealth Vriddhi Sahayak) content — Reels, scripts, capt
 
 # Finance Compliance Checker (WVS)
 
-WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and an **IRDAI-licensed life insurance agent** empanelled with ICICI's life insurer. One non-compliant post can risk the licence, so run this on **every** WVS piece before it goes out.
+WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and an **IRDAI-licensed life insurance agent** empanelled with ICICI Prudential Life. One non-compliant post can risk the licence, so run this on **every** WVS piece before it goes out.
 
 > This is a practical checklist, not legal advice. Rules change. For anything marked **Ask**, confirm with the insurer's compliance team / branch or AMFI's current guidelines.
 
@@ -28,7 +28,7 @@ WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and
 ## Mutual funds (SEBI / AMFI)
 
 - **ARN tagline at the start of every piece:** "AMFI Registered Mutual Fund Distributor — ARN-341565" (font ≥12 on visuals). Also on every handle.
-- **Identity:** say "AMFI-registered Mutual Fund Distributor" and show the **ARN** (ask the user for it once, then keep it in memory). **Never** use "advisor", "adviser", "financial advisor", "IFA", "wealth manager", or "investment expert". Those titles need SEBI RIA registration. "Sahayak" as a brand name is fine.
+- **Identity:** say "AMFI-registered Mutual Fund Distributor" and show the **ARN** (ARN-341565). **Never** use "advisor", "adviser", "financial advisor", "IFA", "wealth manager", or "investment expert". Those titles need SEBI RIA registration. "Sahayak" as a brand name is fine.
 - **Risk disclaimer:** include "Mutual fund investments are subject to market risks, read all scheme related documents carefully." In the caption **and** on screen for videos, where it must be legible. Voice it if the ad is audio-visual. **Ask:** the current SEBI/AMFI rules on on-screen duration and size.
 - **No return promises:** ⛔ "guaranteed", "sure-shot", "double your money", "safe returns", "fixed returns", "risk-free", "best fund". Illustrations are OK **only** with generic compounding ranges (2–13%, per the WVS roadmap), clearly labelled as assumed, for illustration, not a promise, and not tied to a specific scheme.
 - **Past performance:** don't quote a scheme's returns unless in the SEBI-prescribed format. Safer: don't quote scheme returns at all.
@@ -56,7 +56,7 @@ WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and
 ## Handy disclaimer block (adapt, then verify)
 
 ```
-AMFI-registered Mutual Fund Distributor | ARN-[XXXXX]
+AMFI Registered Mutual Fund Distributor — ARN-341565
 Mutual fund investments are subject to market risks, read all scheme related documents carefully.
 Insurance is the subject matter of solicitation. For more details on risk factors, terms and conditions, please read the sales brochure carefully before concluding a sale.
 Tax benefits as per prevailing tax laws, subject to change. For education only; not investment advice.
