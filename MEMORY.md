@@ -10,6 +10,8 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 - Never store secrets, API keys, passwords, or personal contact details here.
 
 ## Preferences
+- Style: short and direct. Format "Do X → it helps you achieve Y", with each explanation ≤50 words.
+- Wants Claude as a mentor/friend: tell me what to do and why. Draft everything; I approve before anything goes out.
 - Evaluating YouTube videos: give a clear verdict (watch / skim / skip), a table of which
   timestamps to watch and why, what to skip, and 2–3 concrete things to apply. Judge against
   what I already have set up, not in the abstract.
@@ -23,3 +25,11 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 
 ## Project facts
 <!-- Stable facts about my business, brands, and video projects. -->
+- Three businesses, all based in Vadodara, Gujarat:
+  - **WVS**: can sell online (not limited to one area); only 4 customers so far. (What it sells: TBD.)
+  - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
+  - **UCF**: NGO, launched Sept 2026.
+- I work alone on WVS and UCF, 9 AM–8 PM daily.
+- Goal: social media as the lead generator. At least 15 leads/week, growing steadily.
+- Have a Google Business Profile for WVS and CSC (not UCF yet), and WhatsApp Business for all 3.
+- Local networking and friends haven't worked: people don't trust me yet.
