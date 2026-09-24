@@ -7,6 +7,11 @@ Account-wide skills for the Claude app (not part of the video toolkit). Each fol
 | youtube-video-evaluator | "Is this video worth watching? <link or transcript>" |
 | reel-script-writer | "Write a 30s Reel for WVS about …" |
 | weekly-social-planner | "Plan next week's posts for UCF" (uses Social Post, Buffer, or a copy-paste pack) |
+| content-calendar | "Content plan for WVS for next month" |
+| content-repurposer | "Turn this video/transcript into posts for UCF" |
+| instagram-carousel | "Make a carousel for CSC Balaji about …" (designs in Canva if connected) |
+| instagram-performance-analysis | "How did WVS Instagram do last month?" (connector, or insight screenshots) |
+| competitor-content-analysis | "What are competitors posting? @handle1 @handle2" |
 | lead-follow-up | "Follow up my CSC Balaji leads" |
 
 **Install:** claude.ai → Settings → Capabilities → Skills → upload each `.zip` from `zips/`.
