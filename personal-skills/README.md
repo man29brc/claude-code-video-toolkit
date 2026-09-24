@@ -6,7 +6,7 @@ Account-wide skills for the Claude app (not part of the video toolkit). Each fol
 |---|---|
 | youtube-video-evaluator | "Is this video worth watching? <link or transcript>" |
 | reel-script-writer | "Write a 30s Reel for WVS about …" |
-| weekly-buffer-planner | "Plan next week's posts for UCF" |
+| weekly-social-planner | "Plan next week's posts for UCF" (uses Social Post, Buffer, or a copy-paste pack) |
 | lead-follow-up | "Follow up my CSC Balaji leads" |
 
 **Install:** claude.ai → Settings → Capabilities → Skills → upload each `.zip` from `zips/`.
