@@ -31,6 +31,11 @@ Claude updates this file whenever I correct it or it learns a lasting preference
   - **WVS = Wealth Vriddhi Sahyak**: IRDAI-licensed life insurance agent (empanelled with ICICI life insurance)
     and AMFI-registered mutual fund distributor. Can sell online (not limited to one area); only 4 customers so far.
     Content is regulated: IRDAI/AMFI/SEBI rules apply (disclaimers, no promised returns, insurer approval for ads).
+    Snapshot Sept 2026: empanelled with AssetPlus + ZFunds; 5 clients, ~₹75,000 AUM; ARN disclosure live;
+    ~3 hrs/day for WVS; ~₹1L capital earmarked, no more. A 10-year WVS roadmap (2026–2036) governs strategy.
+    Identity: Vadodara's Gujarati-language goal-and-behaviour money coach for first-time and women investors,
+    not a product-selling agency. One content engine (Rameshbhai story reels, money-facts explainers, festival
+    reels, carousels). CSC Balaji is not a lead funnel for WVS. Income projections: base case, never guarantees.
   - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
     Home loans earn the most per customer but close slowly; PAN card is the next biggest earner.
     PAN customers are NOT home-loan prospects (different people). The retail counter can't be used
