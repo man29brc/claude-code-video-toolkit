@@ -17,6 +17,30 @@ Style: direct. Each recommendation is "**Do X** → it helps you achieve Y", wit
 - **Unit economics (rough):** value of one customer (commission or fee), cost and time to win one, and how long it takes to close. For example, home loans pay well but close slowly, while PAN is quick but small.
 - **Strengths / weaknesses / opportunities / threats:** 2 bullets each, specific to Vadodara and the user.
 
+### 1b. Strategy checklist (always run, per business)
+Consider **every** strategy below. Rate its fit as High / Medium / Low / No, with one line on why, using this business's numbers and constraints. Build the plan's 3 bets from the High-fit ones. Don't skip any silently.
+
+| # | Strategy | Fits when… |
+|---|---|---|
+| 1 | **Niche focus** (one customer type or one service) | Leads are few and the message is scattered across too many offers |
+| 2 | **Positioning & trust** (clear promise, credentials, proof) | People don't know or trust you yet |
+| 3 | **Content-led growth** (education Reels, carousels) | The product needs explaining, and you can post consistently |
+| 4 | **Local search** (Google profile, reviews, "near me") | Customers search locally and are ready to buy |
+| 5 | **Referral & partnerships** (dealers, builders, CAs, CSR) | Someone else already has your customers |
+| 6 | **Community building** (WhatsApp groups, societies, workshops) | Trust spreads by word of mouth |
+| 7 | **Lead magnet / free first step** (checklist, free review, calculator) | Visitors are interested but not ready to enquire |
+| 8 | **Conversion fix** (fast replies, follow-up, objection scripts) | Enquiries come in but few convert |
+| 9 | **Retention & referrals from customers** (service, reviews, "who else can I help?") | You have customers but little repeat business or referrals |
+| 10 | **Pricing & packaging** (bundles, clear fees, premium tier) | Unit value is low, or pricing confuses people |
+| 11 | **Paid ads** (small tests of your best content) | Organic content has proven what works and budget exists |
+| 12 | **Lean testing** (small experiment, measure, keep or kill) | It's unclear what works. Use this alongside any of the others |
+| 13 | **Focus / portfolio pruning** (pause or slow one business) | Time is split too thin across businesses |
+| 14 | **Automation & delegation** (Claude templates, the 2 shop staff) | The owner's time is the bottleneck |
+
+Compliance filters: WVS rules out commission-sharing referrals, rebates and return promises. There's no health insurance content, no shop-counter marketing, and no PAN-to-home-loan upselling.
+
+Output this as a compact table per business (Strategy · Fit · Why), before the 90-day plan.
+
 ### 2. Portfolio decision (when looking at all three)
 For each business: **Grow / Maintain / Incubate**.
 - Grow: most time and money. Only **one** business at a time.
