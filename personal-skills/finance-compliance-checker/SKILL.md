@@ -1,11 +1,11 @@
 ---
 name: finance-compliance-checker
-description: Check WVS (Wealth Vriddhi Sahyak) content — Reels, scripts, captions, posts, ads, WhatsApp messages, carousels, Google profile posts — against Indian mutual fund (SEBI/AMFI) and life insurance (IRDAI) promotion rules before it's published. Use whenever content mentions mutual funds, SIP, investing, returns, insurance, policies, term plans, ULIPs, or tax saving, and before any WVS content is scheduled or sent. Also use when the user asks "is this compliant" or "can I post this".
+description: Check WVS (Wealth Vriddhi Sahayak) content — Reels, scripts, captions, posts, ads, WhatsApp messages, carousels, Google profile posts — against Indian mutual fund (SEBI/AMFI) and life insurance (IRDAI) promotion rules before it's published. Use whenever content mentions mutual funds, SIP, investing, returns, insurance, policies, term plans, ULIPs, or tax saving, and before any WVS content is scheduled or sent. Also use when the user asks "is this compliant" or "can I post this".
 ---
 
 # Finance Compliance Checker (WVS)
 
-WVS = Wealth Vriddhi Sahyak: an **AMFI-registered mutual fund distributor** and an **IRDAI-licensed life insurance agent** empanelled with ICICI's life insurer. One non-compliant post can risk the licence, so run this on **every** WVS piece before it goes out.
+WVS = Wealth Vriddhi Sahayak: an **AMFI-registered mutual fund distributor** and an **IRDAI-licensed life insurance agent** empanelled with ICICI's life insurer. One non-compliant post can risk the licence, so run this on **every** WVS piece before it goes out.
 
 > This is a practical checklist, not legal advice. Rules change. For anything marked **Ask**, confirm with the insurer's compliance team / branch or AMFI's current guidelines.
 
@@ -27,7 +27,7 @@ WVS = Wealth Vriddhi Sahyak: an **AMFI-registered mutual fund distributor** and 
 
 ## Mutual funds (SEBI / AMFI)
 
-- **Identity:** say "AMFI-registered Mutual Fund Distributor" and show the **ARN** (ask the user for it once, then keep it in memory). **Never** use "advisor", "adviser", "financial advisor", "IFA", "wealth manager", or "investment expert". Those titles need SEBI RIA registration. "Sahyak" as a brand name is fine.
+- **Identity:** say "AMFI-registered Mutual Fund Distributor" and show the **ARN** (ask the user for it once, then keep it in memory). **Never** use "advisor", "adviser", "financial advisor", "IFA", "wealth manager", or "investment expert". Those titles need SEBI RIA registration. "Sahayak" as a brand name is fine.
 - **Risk disclaimer:** include "Mutual fund investments are subject to market risks, read all scheme related documents carefully." In the caption **and** on screen for videos, where it must be legible. Voice it if the ad is audio-visual. **Ask:** the current SEBI/AMFI rules on on-screen duration and size.
 - **No return promises:** ⛔ "guaranteed", "sure-shot", "double your money", "safe returns", "fixed returns", "risk-free", "best fund". Illustrations like "₹5,000 SIP at an assumed 12%" are OK **only if** clearly labelled as an assumed rate, for illustration, not a promise, and not tied to a specific scheme.
 - **Past performance:** don't quote a scheme's returns unless in the SEBI-prescribed format. Safer: don't quote scheme returns at all.

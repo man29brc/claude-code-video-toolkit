@@ -28,7 +28,7 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 ## Project facts
 <!-- Stable facts about my business, brands, and video projects. -->
 - Three businesses, all based in Vadodara, Gujarat:
-  - **WVS = Wealth Vriddhi Sahyak**: IRDAI-licensed life insurance agent (empanelled with ICICI life insurance)
+  - **WVS = Wealth Vriddhi Sahayak**: IRDAI-licensed life insurance agent (empanelled with ICICI Prudential Life)
     and AMFI-registered mutual fund distributor. Can sell online (not limited to one area).
     Content is regulated: IRDAI/AMFI/SEBI rules apply (disclaimers, no promised returns, insurer approval for ads).
     Snapshot Sept 2026: empanelled with AssetPlus + ZFunds; 5 clients, ~₹75,000 AUM; ARN disclosure live;
@@ -36,6 +36,9 @@ Claude updates this file whenever I correct it or it learns a lasting preference
     Identity: Vadodara's Gujarati-language goal-and-behaviour money coach for first-time and women investors,
     not a product-selling agency. One content engine (Rameshbhai story reels, money-facts explainers, festival
     reels, carousels). CSC Balaji is not a lead funnel for WVS. Income projections: base case, never guarantees.
+    Primary audience: first-time WOMEN investors. Content in Gujarati & Hindi (not English). Tagline "Pehle Samjho, Phir Faisla Lo".
+    Scheduler per roadmap: Zoho Social. Public title is always "AMFI Registered Mutual Fund Distributor — ARN-341565", never "advisor"/"coach".
+    Key docs live in the WVS Drive folder: "WVS Project Facts", "WVS 10-Year Roadmap 2026-2036 (Google Doc)", brand guidelines.
   - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
     Home loans earn the most per customer but close slowly; PAN card is the next biggest earner.
     PAN customers are NOT home-loan prospects (different people). The retail counter can't be used
