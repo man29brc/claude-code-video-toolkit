@@ -2,6 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with this video production toolkit.
 
+## Memory
+
+@MEMORY.md
+
+`MEMORY.md` (imported above) holds my preferences and lessons learned across sessions. Follow it.
+**When I correct you, or you learn a lasting preference or fact, update `MEMORY.md` in the same
+turn** — edit or remove outdated bullets rather than adding contradicting ones, and never store
+secrets. Mention the update in one line. In cloud sessions, commit it with your other changes so it persists.
+
 ## Overview
 
 **claude-code-video-toolkit** is an AI-native video production workspace. It provides Claude Code with the skills, commands, and tools to create professional videos from concept to final render.
