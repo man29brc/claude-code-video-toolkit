@@ -26,10 +26,16 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 ## Project facts
 <!-- Stable facts about my business, brands, and video projects. -->
 - Three businesses, all based in Vadodara, Gujarat:
-  - **WVS**: can sell online (not limited to one area); only 4 customers so far. (What it sells: TBD.)
+  - **WVS = Wealth Vriddhi Sahyak**: IRDAI-licensed life insurance agent (empanelled with ICICI life insurance)
+    and AMFI-registered mutual fund distributor. Can sell online (not limited to one area); only 4 customers so far.
+    Content is regulated: IRDAI/AMFI/SEBI rules apply (disclaimers, no promised returns, insurer approval for ads).
   - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
+    Home loans earn the most per customer but close slowly; PAN card is the next biggest earner.
   - **UCF**: NGO, launched Sept 2026.
 - I work alone on WVS and UCF, 9 AM–8 PM daily.
 - Goal: social media as the lead generator. At least 15 leads/week, growing steadily.
 - Have a Google Business Profile for WVS and CSC (not UCF yet), and WhatsApp Business for all 3.
 - Local networking and friends haven't worked: people don't trust me yet.
+- Content: faceless storyline Reels that make finance easy to understand. I prefer not to be on camera.
+  About 1 hour/day for content once the system is set up (more during setup).
+- Ads budget: considering ₹300/day per business.
