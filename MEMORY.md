@@ -49,5 +49,5 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 - Have a Google Business Profile for WVS and CSC (not UCF yet), and WhatsApp Business for all 3.
 - Local networking and friends haven't worked: people don't trust me yet.
 - Content: faceless storyline Reels that make finance easy to understand. I prefer not to be on camera.
-  About 1 hour/day for content once the system is set up (more during setup).
-- Ads budget: considering ₹300/day per business.
+  WVS: 3 hrs/day (hard boundary, per roadmap). CSC and UCF share the rest of the day.
+- Money: WVS has a one-time ~₹1L budget, spent in roadmap order (landing page first, ads last). CSC/UCF ads only once they earn.

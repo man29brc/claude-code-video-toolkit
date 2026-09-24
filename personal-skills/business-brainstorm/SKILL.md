@@ -11,7 +11,7 @@ Many ideas first, then ruthless selection. The output is **3 ideas to try this w
 
 - **Problem as a question:** "How might we get 5 home-loan leads a week without the shop counter?" Rewrite vague asks into this form and confirm.
 - **Business:** WVS / CSC Balaji / UCF / all. Load the profile from the project or memory.
-- **Constraints**, which are already known, so don't ask again: ~1 hour/day for content, mostly working alone, faceless (no camera), ads ₹0 now and up to ₹300/day later, no shop-counter marketing, no health insurance content, WVS must follow SEBI/AMFI/IRDAI rules.
+- **Constraints**, which are already known, so don't ask again: WVS 3 hrs/day (roadmap), CSC and UCF share the rest, mostly working alone, faceless (no camera), WVS budget is the one-time ~₹1L (ads last), CSC/UCF ads only once they earn, no shop-counter marketing, no health insurance content, WVS must follow SEBI/AMFI/IRDAI rules.
 - **What's already been tried** (so you don't repeat it): local networking and friends (didn't work, low trust).
 
 ## 2. Diverge: 15–20 ideas across these lenses
