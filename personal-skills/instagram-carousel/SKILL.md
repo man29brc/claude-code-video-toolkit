@@ -43,6 +43,8 @@ Read each Canva tool's schema before calling it. Don't guess parameters.
 Design rules: big text (readable on a phone), high contrast, lots of empty space, the same layout on every slide, a slide number or swipe cue ("→") on the cover, and the logo small on the last slide only.
 
 ## Rules
+- **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
+- Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
 - Never invent facts, prices, eligibility rules, or statistics. Use `[placeholder]` and flag it.
 - CSC / government-service info: say "check the latest rules" when details can change.
 - UCF: dignified imagery. No identifiable beneficiaries without consent.

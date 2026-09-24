@@ -21,7 +21,7 @@ Then load that business's profile from memory, user preferences, or project file
 Use what the user gave. Default anything missing and state the defaults in one line; don't interrogate:
 - **Length:** 30s (options 15 / 30 / 60s)
 - **Goal:** enquiries for businesses; awareness, donations or volunteers for UCF
-- **Format:** talking-to-camera + b-roll, unless the user says they can't be on camera
+- **Format:** **faceless** by default (the user prefers not to be on camera): storyline scenes, b-roll, or text + voiceover in the user's own voice. For full storyline reels, use the story-reel-maker skill.
 - **Language:** from the profile. For Indian local audiences, simple Hindi/Hinglish or the regional language often beats formal English. Ask if unsure.
 
 ## 3. Write it
@@ -52,6 +52,8 @@ For UCF: lead with one real person or moment, not statistics. Be respectful and 
 Then offer **2 alternative hooks** in one line each, so the user can A/B test.
 
 ## Rules
+- **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
+- Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
 - Never invent facts, prices, results, testimonials, or government-scheme details. Use `[placeholder]` and flag it.
 - CSC or government-service content: don't promise approvals, timelines, or benefits you can't verify.
 - Keep on-screen text large and short. Assume many people watch without sound.
