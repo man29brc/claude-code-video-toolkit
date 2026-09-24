@@ -29,9 +29,9 @@ Ask happy customers for a 2–3 line text or a short voice note: "What was your 
 
 ## 3. Turn proof into content (faceless)
 
-- **Quote card** (Canva / instagram-carousel): the quote + first name + service. No photos of people without consent.
+- **Quote card** (Canva / instagram-carousel), **CSC and UCF only**: the quote + first name + service. No photos of people without consent. For WVS, use an aggregate-stat card instead.
 - **Story reel** (story-reel-maker): "How we helped a first-time home buyer in Vadodara get their documents ready" with anonymised details.
-- **Instagram Highlight "Reviews"**: screenshots of Google reviews with personal details blurred.
+- **Instagram Highlight "Reviews"** (CSC and UCF only): screenshots of Google reviews with personal details blurred.
 - **Milestones**: "25 families helped with PAN cards this month" (only real numbers).
 
 ## 4. Reply to every Google review
