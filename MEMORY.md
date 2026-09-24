@@ -37,7 +37,8 @@ Claude updates this file whenever I correct it or it learns a lasting preference
     not a product-selling agency. One content engine (Rameshbhai story reels, money-facts explainers, festival
     reels, carousels). CSC Balaji is not a lead funnel for WVS. Income projections: base case, never guarantees.
     Primary audience: first-time WOMEN investors. Content in Gujarati & Hindi (not English). Tagline "Pehle Samjho, Phir Faisla Lo".
-    Scheduler per roadmap: Zoho Social. Public title is always "AMFI Registered Mutual Fund Distributor — ARN-341565", never "advisor"/"coach".
+    Scheduler per roadmap: Zoho Social. Video generation: Runware (replaced Luma). Say "money guide", never "money coach".
+    Handles: Instagram @wealthvriddhisahayak; Facebook page 625858873943197 (both in Porter Metrics). Insurance content: follow IRDAI rules; no need to ask ICICI Pru for education posts. Public title is always "AMFI Registered Mutual Fund Distributor — ARN-341565", never "advisor"/"coach".
     Also keep the brand prompt's end-of-post commission disclosure ("ARN-341565 | I earn commission on recommended products"). If the brand prompt conflicts with WVS Project Facts, Facts wins.
     Key docs live in the WVS Drive folder: "WVS Project Facts", "WVS 10-Year Roadmap 2026-2036 (Google Doc)", brand guidelines.
   - **CSC Balaji**: CSC centre combined with a stationery shop; local walk-in customers, few so far; 2 shop staff.
