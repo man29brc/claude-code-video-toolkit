@@ -1,6 +1,6 @@
 ---
 name: weekly-mentor-checkin
-description: Weekly business mentor session for the user's three businesses (WVS, CSC Balaji, UCF) — review last week's numbers, find the single biggest bottleneck, and set the top 3 actions for next week with short reasons. Use when the user asks for a weekly review, check-in, "what should I focus on", "why am I not growing", planning the week, or on the Sunday scheduled run.
+description: Weekly business mentor session for the user's three businesses (WVS, CSC Balaji, UCF) — review last week's numbers, find the single biggest bottleneck, and set the top 3 actions for next week with short reasons. Use when the user asks for a weekly review, check-in, "what should I focus on", "why am I not growing", planning the week, or on the Saturday scheduled run (roadmap: Saturday numbers review).
 ---
 
 # Weekly Mentor Check-in
