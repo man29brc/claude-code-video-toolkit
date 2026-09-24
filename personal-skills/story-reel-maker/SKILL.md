@@ -46,7 +46,7 @@ Visual style: one consistent style per series (e.g. "flat 2D illustration, warm 
 
 ## 4. Compliance (mandatory for WVS)
 
-Before finalising **any WVS reel**, run the **finance-compliance-checker** skill: add the disclaimers, no return promises, "Characters are fictional", and flag if insurer approval is needed. For CSC home-loan reels, don't promise approval, rates, or timelines.
+Before finalising **any WVS reel**, run the **finance-compliance-checker** skill: add the disclaimers, no return promises, "Characters are fictional", and flag if insurer approval is needed. For CSC home-loan reels, don't promise approval, rates, or timelines. **No health insurance reels.**
 
 ## 5. Make the video (choose the route)
 

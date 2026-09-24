@@ -53,6 +53,7 @@ Title (≤60 chars) + 2-line description.
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Each format must work **on its own**. Don't write "as seen in our Reel".
 - Vary the hook across formats. Don't paste the same first line everywhere.
 - Match the language to the audience (English, Hindi, Hinglish, or regional), as the profile says. Ask if unsure.

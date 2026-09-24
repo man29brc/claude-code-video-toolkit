@@ -54,6 +54,7 @@ Then offer **2 alternative hooks** in one line each, so the user can A/B test.
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Never invent facts, prices, results, testimonials, or government-scheme details. Use `[placeholder]` and flag it.
 - CSC or government-service content: don't promise approvals, timelines, or benefits you can't verify.
 - Keep on-screen text large and short. Assume many people watch without sound.

@@ -45,6 +45,7 @@ Design rules: big text (readable on a phone), high contrast, lots of empty space
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Never invent facts, prices, eligibility rules, or statistics. Use `[placeholder]` and flag it.
 - CSC / government-service info: say "check the latest rules" when details can change.
 - UCF: dignified imagery. No identifiable beneficiaries without consent.

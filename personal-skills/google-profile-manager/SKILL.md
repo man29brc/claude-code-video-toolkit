@@ -15,7 +15,7 @@ Ask for screenshots of the profile, or the details, then check and fix:
 - **Primary category** + 2–4 secondary categories (e.g. CSC: the most accurate categories for the services actually offered; WVS: "Insurance agency" / "Financial consultant"-type categories that match the licence. Never "Financial planner" if not registered as an adviser).
 - **Business name:** exactly the real name. No keyword stuffing (against Google policy).
 - **Description (750 chars):** what you do, for whom, area served (Vadodara plus nearby areas), trust points, and how to contact. WVS: include "AMFI-registered Mutual Fund Distributor" and no return promises.
-- **Services list** with a short description each (home loans, PAN, and the other CSC services; term / health insurance, SIP / mutual funds).
+- **Services list** with a short description each (home loans, PAN, and the other CSC services; term life insurance, SIP / mutual funds).
 - Hours, phone, WhatsApp link, website or Instagram link, and service area.
 - **Photos:** logo, cover, and 10+ real photos (office or shop, documents process, team). Add 1–2 new photos a week.
 
@@ -40,3 +40,4 @@ Ask for **Performance** screenshots (searches, calls, website clicks, direction 
 ## Rules
 - No fake reviews, no review incentives, no keyword-stuffed names. These can get the profile suspended.
 - Only real addresses and real photos.
+- No health insurance posts (it's sold only via CSC Balaji on request).

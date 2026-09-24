@@ -1,6 +1,6 @@
 ---
 name: whatsapp-closer
-description: Turn enquiries into customers on WhatsApp for WVS (term/health insurance, mutual fund SIPs), CSC Balaji (home loans, PAN and CSC services) and UCF (donors, volunteers) — first replies, qualifying questions, follow-up sequences, objection handling, and WhatsApp Business setup (quick replies, labels, greeting and away messages). Use when the user shares a lead's message or asks what to reply, how to follow up, how to handle "too costly" / "I'll think" / "I already have LIC", or how to close a lead.
+description: Turn enquiries into customers on WhatsApp for WVS (term life insurance, mutual fund SIPs), CSC Balaji (home loans, PAN, health insurance and CSC services) and UCF (donors, volunteers) — first replies, qualifying questions, follow-up sequences, objection handling, and WhatsApp Business setup (quick replies, labels, greeting and away messages). Use when the user shares a lead's message or asks what to reply, how to follow up, how to handle "too costly" / "I'll think" / "I already have LIC", or how to close a lead.
 ---
 
 # WhatsApp Closer
@@ -15,7 +15,7 @@ First reply = thank them, use their name, reference what they asked, and ask **o
 ## 2. Qualify (one question per message)
 
 - **Term / life insurance:** age, dependents, rough annual income, existing cover, smoker or not → then offer a short call.
-- **Health insurance:** family members and ages, city, existing cover, known conditions (don't collect medical details in chat, save that for the call).
+- **Health insurance (CSC Balaji, inbound enquiries only):** family members and ages, city, existing cover, known conditions (don't collect medical details in chat, save that for the call).
 - **Mutual fund / SIP:** goal (child education, retirement, house), time horizon, comfortable monthly amount, prior investing experience, KYC done?
 - **Home loan (CSC):** property found or searching, property type and location, monthly income and job or business, rough CIBIL awareness, loan amount needed → then the document checklist.
 - **PAN / CSC services:** exactly what's needed, the documents they have, and the timeline → give a clear price and next step.

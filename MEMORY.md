@@ -18,6 +18,7 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 
 ## Corrections
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for leads/reviews.
+- No health insurance content. Health insurance is sold only via CSC Balaji (not WVS or UCF), on request.
 <!-- Mistakes Claude made and what to do instead. -->
 
 ## Environment & tooling

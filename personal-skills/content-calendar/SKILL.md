@@ -54,6 +54,7 @@ End with: "Want me to script the Reels (reel-script-writer) or schedule week 1 (
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Never invent facts, prices, results, testimonials, or scheme details. Use `[placeholder]`.
 - Keep the three businesses' calendars separate. They can share a festival, but each gets its own angle.
 - Offer to save the pillars to memory so next month builds on them.

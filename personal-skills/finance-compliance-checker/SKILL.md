@@ -38,7 +38,7 @@ WVS = Wealth Vriddhi Sahyak: an **AMFI-registered mutual fund distributor** and 
 ## Life insurance (IRDAI)
 
 - **📨 Insurer approval:** under IRDAI advertising rules, an agent's advertisements generally need the **insurer's prior approval**. Treat any post that promotes insurance products or your insurance services as needing approval, and flag it. Pure education with no product or offer may not, but **Ask** the insurer's compliance.
-- **Name products correctly:** if you name a plan, use its exact name and UIN, with "Insurance is the subject matter of solicitation" (commonly required). Safer: talk about categories (term insurance, health cover) rather than named plans.
+- **Name products correctly:** if you name a plan, use its exact name and UIN, with "Insurance is the subject matter of solicitation" (commonly required). Safer: talk about categories (e.g. term insurance) rather than named plans.
 - **Don't sell insurance as an investment.** No "insurance + guaranteed returns", no ULIP-versus-MF return comparisons, no "tax-free guaranteed income".
 - **No rebates or freebies:** ⛔ "cashback", "gift on buying a policy", "first premium discount". Rebating is prohibited.
 - **Tax claims:** "Tax benefits as per prevailing tax laws, subject to change." No exact rupee tax-saving promises.

@@ -12,7 +12,7 @@ description: Log and track leads for WVS, CSC Balaji and UCF in one Google Sheet
 One Google Sheet named **"Lead Tracker"** in the user's Drive (use `search_files`; if missing, ask once, then create it with the Google Drive connector).
 Columns:
 
-| Date | Name | Business (WVS/CSC/UCF) | Product (Term/Health/MF-SIP/Home loan/PAN/Other/Donor/Volunteer) | Source (Instagram/Facebook/Google profile/WhatsApp/Referral partner/Ads/Other) | Content that brought them | Stage | Next action | Next follow-up date | Value (₹ est.) | Notes |
+| Date | Name | Business (WVS/CSC/UCF) | Product (Term/Health-CSC/MF-SIP/Home loan/PAN/Other/Donor/Volunteer) | Source (Instagram/Facebook/Google profile/WhatsApp/Referral partner/Ads/Other) | Content that brought them | Stage | Next action | Next follow-up date | Value (₹ est.) | Notes |
 
 Stages: **New → Contacted → Qualified → Meeting/Docs → Proposal → Won / Lost (reason)**
 

@@ -72,6 +72,7 @@ End with a checklist: `[ ] Mon 7 PM – WVS – Instagram` … for ticking off.
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Never invent facts, prices, results, or testimonials. Use `[placeholder]`.
 - Don't cross-post one business's content to another business's accounts.
 - UCF: respectful, consent-aware storytelling. No exploitative imagery.

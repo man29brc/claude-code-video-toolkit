@@ -57,6 +57,7 @@ Offer next steps: script the best ideas (reel-script-writer), or add them to the
 ## Rules
 - **WVS content** (mutual funds / insurance): run the **finance-compliance-checker** skill before it's published or scheduled.
 - Don't suggest upselling PAN customers into home loans, or using the CSC shop counter for marketing.
+- **No health insurance content** (posts, reels, ads). It's sold only via CSC Balaji when customers ask.
 - Adapt patterns, never copy scripts, captions, designs, or audio branding.
 - No misleading claims or fake urgency, even if competitors use them.
 - UCF: compare with similar NGOs respectfully. Focus on storytelling craft, not criticism.

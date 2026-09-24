@@ -7,6 +7,8 @@ To change a skill, edit its `SKILL.md`, re-zip the folder, and upload it again.
 | Group | Skill | Say something like… |
 |---|---|---|
 | Mentor | weekly-mentor-checkin | "Weekly check-in" / "What should I focus on?" |
+| Mentor | business-strategy | "90-day plan for all 3 businesses" / "Should I start ads?" |
+| Mentor | business-brainstorm | "Brainstorm: home-loan leads without the counter" |
 | Leads | lead-tracker | "New lead: Priya, term plan, from Instagram" / "Lead report" |
 | Leads | whatsapp-closer | "What do I reply to this?" (paste the message) |
 | Leads | lead-follow-up | "Follow up my email leads" |
