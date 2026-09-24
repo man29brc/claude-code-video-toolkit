@@ -1,6 +1,6 @@
 ---
 name: lead-follow-up
-description: Find leads and enquiries that need a reply across the user's businesses (WVS, CSC Balaji, UCF NGO), draft follow-up messages for approval, and log them to a Google Drive lead log. Use when the user asks to follow up leads, check enquiries, chase prospects, reply to customers/donors, or update the lead log.
+description: Find leads and enquiries that need a reply across the user's businesses (WVS, CSC Balaji, UCF NGO), draft follow-up messages for approval, and log them in the shared Lead Tracker sheet. Use when the user asks to follow up leads, check enquiries, chase prospects, reply to customers/donors, or update the lead tracker.
 ---
 
 # Lead Follow-up
@@ -46,13 +46,9 @@ For each chosen lead, write a short reply in the business's tone and the lead's 
 
 Show all drafts in chat. After the user approves (with or without edits), create each as a **Gmail draft** with `create_draft` in the right thread. Don't send. Tell the user the drafts are waiting in Gmail. Only use `reply`/`send_message` if the user explicitly says "send".
 
-## 5. Log to Google Drive
+## 5. Log to the Lead Tracker
 
-Keep one log per business: a Google Doc named **"Lead Log – <Business>"**. Use `search_files` to find it; if it doesn't exist, create it with `create_file` (ask once before creating).
-Append one row per lead actioned:
-
-| Date | Lead | Contact | Business | Wants | Action taken | Next follow-up date | Status |
-
+Log every lead you action in the shared **"Lead Tracker"** Google Sheet, following the **lead-tracker** skill (same columns, stages and privacy rules), with Source = Email.
 Default next follow-up: +3 days for Hot and New, +7 days for Waiting.
 
 ## Rules
