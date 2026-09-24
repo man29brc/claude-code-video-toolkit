@@ -33,7 +33,7 @@ No judging during this step.
 
 ## 3. Converge: score and pick
 
-Score each idea 1–5 on **Impact** (leads or money), **Confidence** (evidence it works) and **Ease** (time and money, given 1 hour a day). Score = I × C × E.
+Score each idea 1–5 on **Impact** (leads or money), **Confidence** (evidence it works) and **Ease** (time and money, within the time and budget limits above). Score = I × C × E.
 Drop anything that breaks a constraint or a compliance rule.
 
 ## 4. Output
