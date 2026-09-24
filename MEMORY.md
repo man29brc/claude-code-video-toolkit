@@ -29,7 +29,7 @@ Claude updates this file whenever I correct it or it learns a lasting preference
 <!-- Stable facts about my business, brands, and video projects. -->
 - Three businesses, all based in Vadodara, Gujarat:
   - **WVS = Wealth Vriddhi Sahyak**: IRDAI-licensed life insurance agent (empanelled with ICICI life insurance)
-    and AMFI-registered mutual fund distributor. Can sell online (not limited to one area); only 4 customers so far.
+    and AMFI-registered mutual fund distributor. Can sell online (not limited to one area).
     Content is regulated: IRDAI/AMFI/SEBI rules apply (disclaimers, no promised returns, insurer approval for ads).
     Snapshot Sept 2026: empanelled with AssetPlus + ZFunds; 5 clients, ~₹75,000 AUM; ARN disclosure live;
     ~3 hrs/day for WVS; ~₹1L capital earmarked, no more. A 10-year WVS roadmap (2026–2036) governs strategy.
